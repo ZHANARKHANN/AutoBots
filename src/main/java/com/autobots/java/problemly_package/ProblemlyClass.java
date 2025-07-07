@@ -8,3 +8,9 @@ public class ProblemlyClass {
 
         System.out.println("There`s no problem buddy");
 
+
+        System.out.println("Bro there`s many errors everything is bad");
+
+        fmkfmdsflks sdjblsflsdl skjbfosnfsn fsjbdfosbdpk sjfbsobfows sofnosnfsp ofsnfsk lksnflsknf sonfslnf
+    }
+}
