@@ -6,5 +6,5 @@ public class ProblemlyClass {
 
         System.out.println("Everything is ok");
 
-    }
-}
+        System.out.println("There`s no problem buddy");
+
